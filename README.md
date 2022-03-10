@@ -1,4 +1,4 @@
-# Vite & Swagger UI build issues - minimal example
+# Vite & Swagger UI polyfill issues - minimal example
 
 Related discussion in PR on Swagger UI repo: https://github.com/swagger-api/swagger-ui/pull/7898
 
