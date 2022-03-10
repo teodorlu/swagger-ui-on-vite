@@ -2,7 +2,14 @@
 
 Related discussion in PR on Swagger UI repo: https://github.com/swagger-api/swagger-ui/pull/7898
 
-Steps to get here:
+## Rationale
+
+Installing and using `swagger-ui-react` fails out of the box on applications
+that use Vite.js. Why?
+
+This repo is a minimal reproduction of those issues.
+
+## Steps to get here
 
 1. `npm create vite@latest swagger-ui-on-vite`
 2. Pick "react" and "react-ts"
