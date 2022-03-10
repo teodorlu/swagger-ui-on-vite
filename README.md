@@ -6,3 +6,4 @@ Steps to get here:
 2. Pick "react" and "react-ts"
 3. For a dev build, run `npm run dev`
 4. Cleanup default main.tsx and css
+5. `npm install --save swagger-ui-react`
