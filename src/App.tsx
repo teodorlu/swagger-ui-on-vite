@@ -1,13 +1,15 @@
-import { useState } from 'react'
+import { useState } from "react";
+import SwaggerUI from "swagger-ui-react";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <div className="App">
-      Minimal example: Vite.js and Swagger UI
+      <p>Minimal example: Vite.js and Swagger UI.</p>
+      <SwaggerUI url="https://petstore.swagger.io/v2/swagger.json"></SwaggerUI>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
