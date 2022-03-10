@@ -12,4 +12,4 @@ Steps to get here:
 6. Import and use the `SwaggerUI` component
 7. Observe errors when opening the app:
 
-![swagger-ui-component-error-randombytes.png][]
+![](swagger-ui-component-error-randombytes.png)
